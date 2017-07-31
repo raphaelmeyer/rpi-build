@@ -1,9 +1,12 @@
 [submodule "poky"]
 	path = poky
 	url = http://git.yoctoproject.org/git/poky
+	branch = pyro
 [submodule "meta-raspberrypi"]
 	path = meta-raspberrypi
 	url = http://git.yoctoproject.org/git/meta-raspberrypi
+	branch = pyro
 [submodule "meta-ybpi"]
 	path = meta-ybpi
 	url = https://github.com/raphaelmeyer/meta-ybpi.git
+	branch = pyro
